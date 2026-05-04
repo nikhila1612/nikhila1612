@@ -57,6 +57,4 @@
 ---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhila1612&show_icons=true&locale=en&theme=dark" alt="nikhila1612" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhila1612&theme=dark" alt="nikhila1612" /></p>
