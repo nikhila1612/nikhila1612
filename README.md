@@ -27,6 +27,31 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhila1612&show_icons=true&locale=en&layout=compact&theme=dark" alt="nikhila1612" /></p>
 
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/nikhila-m-a166ab214" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://instagram.com/nikhila1612" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="https://twitter.com/nikhilam1612" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,css,express,git,html,java,js,mongodb,mysql,nodejs,postgres,postman,python,react" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhila1612&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhila1612&show_icons=true&locale=en&theme=dark" alt="nikhila1612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhila1612&theme=dark" alt="nikhila1612" /></p>
