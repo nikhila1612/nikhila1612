@@ -56,13 +56,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhila1612&layout=compact&theme=dark" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhila1612&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhila1612&show_icons=true&locale=en&theme=dark" alt="nikhila1612" /></p>
 
