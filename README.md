@@ -15,9 +15,9 @@
 - 📫 How to reach me **nikhilamanoj2000@gmail.com**
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nikhila-m-a166ab214/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" />
   </a>
